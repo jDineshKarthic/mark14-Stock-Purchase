@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+  }
+  body{
+    background-color: bisque;
+
+  }
+h1{
+    color: rgb(17, 73, 54);
+}
+body label,button,div,h1{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    display: block;
+    margin: 10px auto;
+    
+}
+input{
+    color: rgb(39, 19, 70);
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 4px;
+    font-size: larger;
+}
+button{
+    padding: 8px;
+    margin: 8px auto;
+    background-color: rgb(231, 189, 135);
+    border: none;
+    border-radius: 6px;;
+}
